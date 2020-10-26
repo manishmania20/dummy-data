@@ -1,0 +1,44 @@
+{
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Clean the house",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Buy milk",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Study Physics",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Play Sudoku with Kia",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "Keep the trash out",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "Do meditation",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "Feed Joe and Denly",
+      "completed": false
+    }
+}
